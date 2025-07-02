@@ -1,5 +1,11 @@
 ## Hi there 👋
 My name is Karthik Bhattaram! I'm a rising senior at UCSB studying computer science.
+
+* Website: karthikb-dev.github.io
+* LinkedIn: linkedin.com/in/karthik-bhattaram-7640a528a
+* Email: karthik.bhattaram.1@gmail.com
+* Pronouns: he/him
+  
 <!--
 **KarthikB-dev/KarthikB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
