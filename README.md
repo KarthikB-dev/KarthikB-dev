@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Karthik Bhattaram! I'm a rising senior at UCSB studying computer science.
 <!--
 **KarthikB-dev/KarthikB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+## Github Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KarthikB-dev)](https://git.io/streak-stats)
 
