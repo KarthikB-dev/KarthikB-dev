@@ -5,7 +5,8 @@ My name is Karthik Bhattaram, and I'm a rising senior at UCSB studying computer 
 * LinkedIn: https://linkedin.com/in/karthik-bhattaram-7640a528a
 * Email: karthik.bhattaram.1@gmail.com
 * Paper: https://arxiv.org/pdf/2505.19305
-  
+
+Quick note - many of my commits are to private repositories because these contain my homework solutions!
 <!--
 **KarthikB-dev/KarthikB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
