@@ -7,6 +7,8 @@ My name is Karthik Bhattaram, and I'm a senior at UCSB studying computer science
 * Paper: https://arxiv.org/pdf/2505.19305
 
 Note that many of my commits are to private repositories because these contain my homework solutions.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KarthikB-dev)](https://git.io/streak-stats)
 <!--
 **KarthikB-dev/KarthikB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
