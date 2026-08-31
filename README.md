@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Karthik Bhattaram, and I'm a senior at UCSB studying computer science. I'm currently pursuing a master's degree.
+My name is Karthik Bhattaram, and I'm a master's student at UCSB studying computer science.
 
 * Website: https://karthikb-dev.github.io/
 * LinkedIn: https://linkedin.com/in/karthik-bhattaram-7640a528a
