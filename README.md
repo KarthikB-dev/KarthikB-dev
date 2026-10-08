@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Karthik Bhattaram, and I'm a master's student at UCSB studying computer science.
+My name is Karthik Bhattaram, and I'm a computer science master's student studying computer networking, security, and machine learning.
 
 * Website: https://karthikb-dev.github.io/
 * LinkedIn: https://linkedin.com/in/karthik-bhattaram-7640a528a
